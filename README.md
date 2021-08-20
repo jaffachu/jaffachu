@@ -2,7 +2,7 @@
 - 👀 I’m interested in Runing
 - 🌱 I’m currently learning IOS & Google developing
 - 💞️ I’m looking to collaborate on IOS
-- 📫 How to reach me by email
+- 📫 You can reach me by email
 
 <!---
 jaffachu/jaffachu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
